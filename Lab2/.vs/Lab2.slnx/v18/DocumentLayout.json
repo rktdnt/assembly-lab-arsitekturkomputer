@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raya Mahardika\\source\\repos\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B02B7DD-D812-4E67-8974-55DD9333C111}|Lab2\\Lab2.vcxproj|C:\\Users\\Raya Mahardika\\source\\repos\\Lab2\\Lab2\\Nomer3.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6B02B7DD-D812-4E67-8974-55DD9333C111}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\Nomer3.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nomer3.asm",
+              "DocumentMoniker": "C:\\Users\\Raya Mahardika\\source\\repos\\Lab2\\Lab2\\Nomer3.asm",
+              "RelativeDocumentMoniker": "Lab2\\Nomer3.asm",
+              "ToolTip": "C:\\Users\\Raya Mahardika\\source\\repos\\Lab2\\Lab2\\Nomer3.asm",
+              "RelativeToolTip": "Lab2\\Nomer3.asm",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-11T10:56:02.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
